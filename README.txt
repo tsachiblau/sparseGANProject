@@ -1,5 +1,6 @@
 
-![MNIST](https://github.com/tsachiblau/sparseGANProject/blob/master/MNIST.png)
+![MNIST-dataset](https://github.com/tsachiblau/sparseGANProject/blob/master/MNIST.png)
+
 
 sparseGAN project:
 Authors : 
@@ -10,3 +11,5 @@ introduction: implementing a GAN based on sparse representation approach
 
 
 
+
+![MNIST-dataset](https://github.com/tsachiblau/sparseGANProject/blob/master/MNIST.png)
